@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "622852031542",
+    "project_id": "mstexpress-3de60",
+    "storage_bucket": "mstexpress-3de60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622852031542:android:3b3274f64c49962b244497",
+        "android_client_info": {
+          "package_name": "com.mstexpressdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622852031542-3mq0mbpc449e8idmmdkk2e4t6kqmc6ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-XsqymtNniJ8lY8isBinnTfdboM864oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622852031542-3mq0mbpc449e8idmmdkk2e4t6kqmc6ar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622852031542-5danfae6f5vcllia3cbj1rep8mj547up.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mstexpressdriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622852031542:android:1c362682a56b6069244497",
+        "android_client_info": {
+          "package_name": "com.mstexpressseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622852031542-3mq0mbpc449e8idmmdkk2e4t6kqmc6ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-XsqymtNniJ8lY8isBinnTfdboM864oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622852031542-3mq0mbpc449e8idmmdkk2e4t6kqmc6ar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622852031542-5danfae6f5vcllia3cbj1rep8mj547up.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mstexpressdriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
